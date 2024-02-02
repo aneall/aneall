@@ -9,4 +9,4 @@ I'm an undergrad @ UNC-Chapel Hill studying **Computer Science**, Neuroscience, 
 - Sleeping
 
 🌱 I’m currently learning about **optics**, **imaging and displays**, **electronics and sensors**, and **assembly programming**
- 📫 You can contact me via: [LinkedIn](https://www.linkedin.com/in/ashley-neall/) or [Email](aneall@unc.edu)
+📫 You can contact me via: [LinkedIn](https://www.linkedin.com/in/ashley-neall/) or [Email](aneall@unc.edu)
