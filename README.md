@@ -1,6 +1,6 @@
 ### Hi there, Ashley here! 👋
 
-I'm an undergrad @ UNC-Chapel Hill studying **Computer Science**, Neuroscience, and Applied Engineering. I'm passionate about **computer graphics** and **vision**, **optics**, and **brain-computer interfaces** – all of which are crucial to the field of **XR**! If I'm not developing XR experiences, I'm busy doing at least one of the following:
+I'm an undergrad @ UNC-Chapel Hill studying **Computer Science**, Neuroscience, and Applied Engineering. I'm passionate about **computer graphics** and **vision**, **optics**, and **brain-computer interfaces** – all of which are crucial to the field of **XR**! If I'm not developing XR experiences, I'm busy doing one of the following:
 
 - 🥽 Leading [Carolina AR/VR](https://linktr.ee/carvr) and [ICXR](https://www.icxr.org/)
 - 🔭 Researching in the [Telepresence Lab](https://telepresence.web.unc.edu/)
