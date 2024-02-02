@@ -6,6 +6,7 @@ I'm an undergrad @ UNC-Chapel Hill studying **Computer Science** – minoring in
 - 🔭 Researching in the [Telepresence Lab](https://telepresence.web.unc.edu/)
 - 👩‍💻 Working on [projects](https://aneall.github.io/projects.html)
 - ⿻ Creating [art](https://aneall.github.io/portfolio.html)!
+- 🍪 Baking
 - 📖 Teaching people XR
 
 🌱 I’m currently learning about **optics**, **imaging and displays**, **electronics and sensors**, and **assembly programming**
