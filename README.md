@@ -2,7 +2,7 @@
 
 I'm an undergrad @ UNC-Chapel Hill studying **Computer Science** – minoring in **Neuroscience** and **Applied Engineering**. I'm passionate about **computer graphics** and **vision**, **optics**, and **brain-computer interfaces** – all of which are crucial to the field of **XR**! If I'm not developing XR experiences, I'm busy doing one of the following:
 
-- 🥽 Leading [Carolina AR/VR](https://linktr.ee/carvr) and [ICXR](https://www.icxr.org/)
+- 🥽 Leading [Carolina AR/VR](https://linktr.ee/carvr) and co-leading [ICXR](https://www.icxr.org/)
 - 🔭 Researching in the [Telepresence Lab](https://telepresence.web.unc.edu/)
 - 👩‍💻 Working on [projects](https://aneall.github.io/projects.html)
 - ⿻ Creating [art](https://aneall.github.io/portfolio.html)
