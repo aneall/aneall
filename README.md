@@ -5,7 +5,7 @@ I'm an undergrad @ UNC-Chapel Hill studying **Computer Science** – minoring in
 - 🥽 Leading [Carolina AR/VR](https://linktr.ee/carvr) and [ICXR](https://www.icxr.org/)
 - 🔭 Researching in the [Telepresence Lab](https://telepresence.web.unc.edu/)
 - 👩‍💻 Working on [projects](https://aneall.github.io/projects.html)
-- ⿻ Creating [art](https://aneall.github.io/portfolio.html)!
+- ⿻ Creating [art](https://aneall.github.io/portfolio.html)
 - 🍪 Baking
 - 📖 Teaching people XR
 
