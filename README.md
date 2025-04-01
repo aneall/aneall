@@ -9,5 +9,5 @@ I'm an Junior @ UNC-Chapel Hill studying **Computer Science**, **Neuroscience**,
 - 🍪 Baking!
 - 📖 Teaching people XR
 
-🌱 I’m currently applying the skills I've learned through graduate-level courses and research to work on my undergraduate honors thesis.
+🌱 I’m currently applying the skills I've learned through graduate-level courses and research to my undergraduate honors thesis.
 - 📫 You can contact me via: [LinkedIn](https://www.linkedin.com/in/ashley-neall/) or [Email](aneall@unc.edu)
