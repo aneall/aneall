@@ -4,7 +4,7 @@ I'm an Junior @ UNC-Chapel Hill studying **Computer Science**, **Neuroscience**,
 
 - 🥽 Leading [Carolina AR/VR](https://linktr.ee/carvr) and co-leading [ICXR](https://www.icxr.org/)
 - 🔭 Researching in the [UNC Graphics and Virtual Reality Group](https://telepresence.web.unc.edu/)
-- 👩‍💻 Hacking to create cool [projects](https://aneall.github.io/projects.html)
+- 👩‍💻 Developing cool [projects](https://aneall.github.io/projects.html)
 - ⿻ Creating [art](https://aneall.github.io/portfolio.html)
 - 🍪 Baking!
 - 📖 Teaching people XR
