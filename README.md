@@ -1,6 +1,6 @@
 ### Hi there, Ashley here! 👋
 
-I'm an Junior @ UNC-Chapel Hill studying **Computer Science**, **Neuroscience**, and **Applied Engineering**. I'm passionate about computer graphics, computational displays (imaging, optics, haptics, biosensing), and human perception – all of which are crucial to improve XR display systems. If I'm not in class, I'm busy doing one of the following:
+I'm an Junior @ UNC-Chapel Hill studying **Computer Science**, **Neuroscience**, and **Applied Engineering**. I'm passionate about computer graphics, computational displays (imaging, optics, haptics, biosensing), and human perception – all of which are crucial to improve XR systems. If you're reading this, I'm busy doing one of the following:
 
 - 🔭 Researching in the [UNC Graphics and Virtual Reality Group](https://telepresence.web.unc.edu/)
 - 🥽 Leading [Carolina AR/VR](https://uncarvr.org/)
