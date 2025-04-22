@@ -1,6 +1,6 @@
 ### Hi there, [Ashley](https://aneall.github.io/) here! 👋
 
-I'm an Junior @ UNC-Chapel Hill studying **Computer Science**, **Neuroscience**, and **Applied Engineering**. I'm passionate about computer graphics, computational displays (imaging, optics, haptics, biosensing), and human perception – all of which are crucial to improve XR systems. You'll usually find me doing one of the following:
+I'm an Junior @ UNC-Chapel Hill studying **Computer Science**, **Neuroscience**, and **Applied Engineering**. I'm passionate about computer graphics, computational displays (imaging, optics, haptics, biosensing), and human perception – all of which are crucial to improve how people interact with XR systems. You'll usually find me doing one of the following:
 
 - 🔭 Researching in the [UNC Graphics and Virtual Reality Group](https://telepresence.web.unc.edu/)
 - 🥽 Leading [Carolina AR/VR](https://uncarvr.org/) _(UNC's XR student organization)_
