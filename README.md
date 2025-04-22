@@ -1,4 +1,4 @@
-### Hi there, Ashley here! 👋
+### Hi there, [Ashley](https://aneall.github.io/) here! 👋
 
 I'm an Junior @ UNC-Chapel Hill studying **Computer Science**, **Neuroscience**, and **Applied Engineering**. I'm passionate about computer graphics, computational displays (imaging, optics, haptics, biosensing), and human perception – all of which are crucial to improve XR systems. You'll usually find me doing one of the following:
 
@@ -12,4 +12,4 @@ I'm an Junior @ UNC-Chapel Hill studying **Computer Science**, **Neuroscience**,
 
 📖 I’m currently applying the skills I've learned through research and graduate-level courses (Computational Imaging, 3D Graphics, Optics) to my undergraduate honors thesis.
 
-📫 You can contact me via: [LinkedIn](https://www.linkedin.com/in/ashley-neall/) or [Email](aneall@unc.edu)
+📫 You can contact me via [LinkedIn](https://www.linkedin.com/in/ashley-neall/) or [Email](aneall@unc.edu)
