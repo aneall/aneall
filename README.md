@@ -8,7 +8,7 @@ I'm an Junior @ UNC-Chapel Hill studying **Computer Science**, **Neuroscience**,
 - 👩‍💻 Developing [side projects](https://aneall.github.io/projects.html)
 - ⿻ Creating [art](https://aneall.github.io/designs.html)
 - 📖 [Teaching](https://aneall.github.io/teaching.html)
-- - 🍪 Baking
+- 🍪 Baking
 
 🌱 I’m currently applying the skills I've learned through research and graduate-level courses (Computational Imaging, 3D Graphics, Optics) to my undergraduate honors thesis.
 - 📫 You can contact me via: [LinkedIn](https://www.linkedin.com/in/ashley-neall/) or [Email](aneall@unc.edu)
